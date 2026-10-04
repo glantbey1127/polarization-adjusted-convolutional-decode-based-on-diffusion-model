@@ -33,6 +33,7 @@ Training samples are generated at:Eb/N0 = 1, 2, 3, 4, 5 dB
 Because this experiment requires significantly more memory and computation, a CUDA GPU is recommended.
 
 ## Repository Structure
+.
 ├── DNN_16_8_dualhead.ipynb
 ├── DNN_32_16_dualhead.ipynb
 ├── MLP.path
